@@ -1,3 +1,6 @@
-# cars-app
+# Интенсив по Frontend-разработке
 
-##f
+Использовал:
+Html, CSS
+Typescript
+Angular
