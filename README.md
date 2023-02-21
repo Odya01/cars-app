@@ -1,4 +1,4 @@
 # Интенсив по Frontend-разработке
 
-#Использовал:
+## Использовал:
 Html, CSS, Typescript, Angular
